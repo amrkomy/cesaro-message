@@ -1,5 +1,5 @@
 {
-  "name": "OneSignal Safe Sender",
+  "name": "cesaro-message",
   "short_name": "cesaro-message",
   "start_url": "/",
   "display": "standalone",
